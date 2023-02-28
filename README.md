@@ -18,7 +18,7 @@
 </div>
 
 
-<h1>Skills</h1>
+<h2>Skills</h1>
 
    <h3> Front-end development: JavaScript, HTML, CSS, React </h3>
    <h3> CSS preprocessors: Sass, Less </h3>
@@ -26,6 +26,6 @@
    <h3> Database: MongoDB </h3>
    <h3> Version control: Git </h3>
 
-<h1>UI Frameworks/Libraries</h1>
+<h2>UI Frameworks/Libraries</h1>
 
   <h3> Ant Design </h3>
