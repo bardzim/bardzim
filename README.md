@@ -17,15 +17,15 @@
 
 <h2>Skills</h1>
 
-   <h3> Front-end development: JavaScript, HTML, CSS, React </h3>
-   <h3> CSS preprocessors: Sass, Less </h3>
-   <h3> Back-end development: Node.js, Express </h3>
-   <h3> Database: MongoDB </h3>
-   <h3> Version control: Git </h3>
+   <p> Front-end development: JavaScript, HTML, CSS, React </p>
+   <p> CSS preprocessors: Sass, Less </p>
+   <p> Back-end development: Node.js, Express </p>
+   <p> Database: MongoDB </p>
+   <p> Version control: Git </p>
 
 <h2>UI Frameworks/Libraries</h1>
 
-  <h3> Ant Design </h3>
+  <p> Ant Design </p>
   
   
 <h2>Contact Me</h2>
