@@ -18,7 +18,7 @@
 </div>
 
 
-<h2>Skills</h1>
+<h3>SkiLLs</h3>
 
    <p> Front-end development: JavaScript, HTML, CSS, React </p>
    <p> CSS preprocessors: Sass, Less </p>
@@ -26,12 +26,12 @@
    <p> Database: MongoDB </p>
    <p> Version control: Git </p>
 
-<h2>UI Frameworks/Libraries</h1>
+<h3>UI Frameworks/Libraries</h1>
 
   <p> Ant Design </p>
   
   
-<h2>Contact Me</h2>
+<h3>Contact Me:</h3>
 </hr>
 <div align="center">
   <a href="mailto:david.bardzimashvili@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-David%20Bardzimashvili-informational?style=flat-square&logo=gmail&logoColor=white&color=2bbc8a"></a>
