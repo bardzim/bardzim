@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="mailto:david.bardzimashvili@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-David%20Bardzimashvili-informational?style=flat-square&logo=gmail&logoColor=white&color=2bbc8a"></a>
-  <a href="https://www.linkedin.com/in/david-bardzimashvili-524282200/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-David%20Bardzimashvili-informational?style=flat-square&logo=linkedin&logoColor=white&color=2bbc8a"></a>
-  <a href="https://github.com/bardzim"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-David%20Bardzimashvili-informational?style=flat-square&logo=github&logoColor=white&color=2bbc8a"></a>
-</div>
+
 </br>
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=2bbc8a">
@@ -29,3 +25,10 @@
 <h2>UI Frameworks/Libraries</h1>
 
   <h3> Ant Design </h3>
+  
+<h2>Contact Me</h2>
+<div align="center">
+  <a href="mailto:david.bardzimashvili@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-David%20Bardzimashvili-informational?style=flat-square&logo=gmail&logoColor=white&color=2bbc8a"></a>
+  <a href="https://www.linkedin.com/in/david-bardzimashvili-524282200/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-David%20Bardzimashvili-informational?style=flat-square&logo=linkedin&logoColor=white&color=2bbc8a"></a>
+  <a href="https://github.com/bardzim"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-David%20Bardzimashvili-informational?style=flat-square&logo=github&logoColor=white&color=2bbc8a"></a>
+</div>
