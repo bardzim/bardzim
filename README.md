@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=2bbc8a">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=2bbc8a">
   </br>
+  
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=2bbc8a">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=2bbc8a">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=2bbc8a">
   <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=2bbc8a">
@@ -20,7 +22,7 @@
 
 <h3>SkiLLs</h3>
 
-   <p> Front-end development: JavaScript, HTML, CSS, React </p>
+   <p> Front-end development: JavaScript, HTML, CSS, Angular, React </p>
    <p> CSS preprocessors: Sass, Less </p>
    <p> Back-end development: Node.js, Express </p>
    <p> Database: MongoDB </p>
